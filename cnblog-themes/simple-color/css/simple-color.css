@@ -1315,6 +1315,7 @@ color:#999;
 .desc_img {
     float: right;
     max-height: 200px;
+    object-fit: contain;
 }
 
 
